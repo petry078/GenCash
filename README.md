@@ -3,6 +3,8 @@
 ## Sobre
 O GenCash é um serviço para bancos e instituições financeiras, que permite que o usuário (cliente do banco) acesse seu saldo bancário e saque dinheiro. Além disso, a aplicação também permite ao usuário acesso à serviços como empréstimo, financiamento e assessoria de investimento.
 
+![GenCash.png](https://github.com/petry078/GenCash/blob/main/GenCash.png?raw=)
+
 ## Como utilizar o GenCash?
 Na tela de boas-vindas, onde há o primeiro menu, insira "1" caso seja um cliente Pessoa Física, baseado apenas em CPF e "2" caso seja um cliente Pessoa Jurídica, baseado em CPF e CNPJ. Para mais informações, documentação, tutorial e contato com desenvolvedores, insira "3".
 
